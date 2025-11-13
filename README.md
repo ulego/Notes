@@ -1,4 +1,4 @@
-#The Art of Software Security Assessment  
+# The Art of Software Security Assessment  
 Mark Dowd, John McDonald, Justin Schuh  
 Pearson Education, 20 нояб. 2006 г.   
 The Definitive Insider’s Guide to Auditing Software Security  
